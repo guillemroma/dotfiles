@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = guillemroma.lopez@gmail.com
+	name = guillem roma
